@@ -1,0 +1,2 @@
+0 NewDayNewGame.GameObjectPatterns.Tiles.FloorCreator floor
+1 NewDayNewGame.GameObjectPatterns.Tiles.WallCreator wall

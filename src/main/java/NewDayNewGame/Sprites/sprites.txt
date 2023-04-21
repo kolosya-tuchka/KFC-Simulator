@@ -1,0 +1,5 @@
+wall src/main/java/NewDayNewGame/Sprites/wall.png
+floor src/main/java/NewDayNewGame/Sprites/tile.png
+frog src/main/java/NewDayNewGame/Sprites/pepe.jpg
+gopnik src/main/java/NewDayNewGame/Sprites/gopnik.jpg
+burger src/main/java/NewDayNewGame/Sprites/burger.png

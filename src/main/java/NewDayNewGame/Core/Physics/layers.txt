@@ -1,0 +1,5 @@
+default 0
+ui 1
+player 2
+ground 3
+ignorePlayer 4
